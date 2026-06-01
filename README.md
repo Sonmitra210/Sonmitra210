@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/sonmitra-seth)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sonmitra210)
 [![Email](https://img.shields.io/badge/Email-sonmitra.seth@gmail.com-red?logo=gmail)](mailto:sonmitra.seth@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert_(1697)-blue)](https://codeforces.com/profile/Sonmitra)
 
 ## 🎓 Education
 
